@@ -34,3 +34,7 @@ Schematic
 PCB
 <img width="913" height="812" alt="image" src="https://github.com/user-attachments/assets/c18fa0aa-13e5-4d11-8983-92ed27baa732" />
 <img width="883" height="730" alt="image" src="https://github.com/user-attachments/assets/26fe1653-3356-4ecb-bec0-5f4205f38af2" />
+
+Assembly
+<img width="723" height="701" alt="image" src="https://github.com/user-attachments/assets/b95b7a40-025e-40c9-bb29-a8d15f6fcfa1" />
+
