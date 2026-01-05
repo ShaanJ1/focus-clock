@@ -2,7 +2,7 @@
 ,,,,
 Item Name:,URL:,Price:,Quantity:,Use:
 OLED Display,https://www.aliexpress.com/item/1005008640132638.html,$5.58,1,Display
-Rotary Encoder,,$0.00,1,User Input
+Rotary Encoder,https://www.aliexpress.com/item/1005003824684681.html,$5.50,1,User Input
 Vibration Motor,https://www.digikey.ca/en/products/detail/adafruit-industries-llc/1201/5353637,$2.82,1,Haptic Feedback
 Speaker Driver,https://www.digikey.ca/en/products/detail/dfrobot/DFR0299/6588463,$8.53,1,Audio Driver
 Speaker,https://www.digikey.ca/en/products/detail/soberton-inc/SP-1605-5/8600809,$3.36,1,Audio Output
@@ -18,5 +18,5 @@ PCBA,https://jlcpcb.com/,$35.78,1,Assembled PCB
 3D Printing Shipping,,$10.00,1,3D Print Shipping Costs
 DigiKey Shipping + GST,,$9.57,1,DigiKey Shipping and tax
 ,,,,
-,Total (CAD):,$68.20,,
-,Total (USD):,$49.47,,
+,Total (CAD):,$73.70,,
+,Total (USD):,$53.57,,
