@@ -1,0 +1,22 @@
+"Bill of Materials",,,,
+,,,,
+Item Name:,URL:,Price:,Quantity:,Use:
+OLED Display,https://www.aliexpress.com/item/1005008640132638.html,$5.58,1,Display
+Rotary Encoder,,$0.00,1,User Input
+Vibration Motor,https://www.digikey.ca/en/products/detail/adafruit-industries-llc/1201/5353637,$2.82,1,Haptic Feedback
+Speaker Driver,https://www.digikey.ca/en/products/detail/dfrobot/DFR0299/6588463,$8.53,1,Audio Driver
+Speaker,https://www.digikey.ca/en/products/detail/soberton-inc/SP-1605-5/8600809,$3.36,1,Audio Output
+3.7V Battery (Self Provided),,$0.00,1,Power Source
+Adafruit Battery Charger (Self Provided),,$0.00,1,Battery Charging
+1x2 Male Pin Connector,https://www.digikey.ca/en/products/detail/w-rth-elektronik/61300211121/4846823,$1.48,10,Board Connections
+1x3 Male Pin Connector,https://www.digikey.ca/en/products/detail/adam-tech/PH1-03-UA/9830289,$0.15,1,Board Connections
+1x4 Male Pin Connector,https://www.digikey.ca/en/products/detail/adam-tech/PH1-04-UA/9829296,$0.15,1,Board Connections
+1x5 Male Pin Connector,https://www.digikey.ca/en/products/detail/adam-tech/PH1-05-UA/9830343,$0.15,1,Board Connections
+2x3 Male Pin Connector,https://www.digikey.ca/en/products/detail/adam-tech/PH2-06-UA/9830396,$0.18,1,Board Connections
+PushButton,https://www.digikey.ca/en/products/detail/same-sky-formerly-cui-devices-/TS02-66-43-BK-100-LCR-D/15634359,$0.45,3,User Input Buttons
+PCBA,https://jlcpcb.com/,$35.78,1,Assembled PCB
+3D Printing Shipping,,$10.00,1,3D Print Shipping Costs
+DigiKey Shipping + GST,,$9.57,1,DigiKey Shipping and tax
+,,,,
+,Total (CAD):,$68.20,,
+,Total (USD):,$49.47,,
