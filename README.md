@@ -20,7 +20,7 @@ A small battery powered pomorodo clock that can help you manage your time better
 | 1x5 Male Pin Connector                   | [DigiKey](https://www.digikey.ca/en/products/detail/adam-tech/PH1-05-UA/9830343)                                                                      | $0.15     | 1            |
 | 2x3 Male Pin Connector                   | [DigiKey](https://www.digikey.ca/en/products/detail/adam-tech/PH2-06-UA/9830396)                                                                      | $0.18     | 1            |
 | PushButton                   | [DigiKey](https://www.digikey.ca/en/products/detail/same-sky-formerly-cui-devices-/TS02-66-43-BK-100-LCR-D/15634359)                                                                      | $0.45     | 3   
-| PCBA                   | [JLCPCB]([https://www.digikey.ca/en/products/detail/same-sky-formerly-cui-devices-/TS02-66-43-BK-100-LCR-D/15634359](https://jlcpcb.com/))                                                                      | $35.78     | 1   
+| PCBA                   | [JLCPCB](https://jlcpcb.com/)                                                                      | $35.78     | 1   
 
 **Total (CAD):** $58.63
 
